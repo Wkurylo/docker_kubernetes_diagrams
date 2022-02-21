@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T15:41:15.296Z" agent="5.0 (Windows)" etag="kbqvHP-cj4KHAeiUagG1" version="16.5.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-21T16:43:10.680Z" agent="5.0 (Windows)" etag="RS7oQJmWPYD0K58zb7Fw" version="16.5.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZBxA2UrAo-vnV_Vem4QD" name="Page-4">
-    <mxGraphModel dx="2249" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jEPXYuJtUmEdQRtMCOBu-0" />
         <mxCell id="jEPXYuJtUmEdQRtMCOBu-1" parent="jEPXYuJtUmEdQRtMCOBu-0" />
@@ -305,52 +305,6 @@
         </mxCell>
         <mxCell id="d3-io8Sv8TmZ_yZ1datO-22" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;GET last recorded value&lt;span style=&quot;color: #9cdcfe&quot;&gt; &lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;last_recorded_value_timestampobject&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;end_query = last_recorded_value_timestampobject&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; + &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0&quot;&gt;timedelta&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;days&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Check if &lt;font color=&quot;#66B2FF&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;end_query&lt;/span&gt;&lt;/font&gt; is &amp;gt;= &lt;font color=&quot;#99CCFF&quot;&gt;&lt;span style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;current_time&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;start_query&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;end_query&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; - &lt;/span&gt;&lt;span style=&quot;color: #4ec9b0&quot;&gt;timedelta&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;days&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;color: #b5cea8&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFFF;fontSize=16;" vertex="1" parent="jEPXYuJtUmEdQRtMCOBu-1">
           <mxGeometry x="-35" y="660" width="570" height="110" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="fOB16LNTdkq97sbxpbpf" name="Page-5">
-    <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-0" />
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-1" parent="5SLZuqj4y3Ywxk72uk7d-0" />
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-2" value="I - Kingdom" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry x="120" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-3" value="W - Kingdom" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry x="520" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=6.35;" edge="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="240" as="sourcePoint" />
-            <mxPoint x="160" y="320" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.588;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="559.5" y="240.96" as="sourcePoint" />
-            <mxPoint x="559.54" y="319.99999999999994" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-6" value="&lt;div&gt;&lt;b&gt;In requirements:&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;having key or with W&lt;/li&gt;&lt;li&gt;biscuit and milk for cat&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry x="590" y="220" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-8" value="&lt;div&gt;&lt;b&gt;In requirements:&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Flat mate away&lt;br&gt;&lt;/li&gt;&lt;li&gt;sandwich for breakfast&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry x="190" y="220" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="559.5" y="400" as="sourcePoint" />
-            <mxPoint x="559.5" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-10" value="&lt;div&gt;&lt;b&gt;Out&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;having key or with W&lt;/li&gt;&lt;li&gt;Public communication or work from W flat&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Remarks: im not able to give u a lift in the morning because i will get to office toooooo late. ocrouse we can wake up at 05.30 and depart at 06.00 :)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry x="610" y="410" width="280" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="5SLZuqj4y3Ywxk72uk7d-11" value="&lt;div&gt;&lt;b&gt;Out&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;car&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="5SLZuqj4y3Ywxk72uk7d-1">
-          <mxGeometry x="190" y="410" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
