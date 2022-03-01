@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T10:43:34.431Z" agent="5.0 (Windows)" etag="44HnGlbxx-2fl0KD_xcu" version="16.5.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-01T10:44:35.879Z" agent="5.0 (Windows)" etag="wRnfPxtiI10yQwa6ZlFY" version="16.5.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,6 +433,9 @@
         </mxCell>
         <mxCell id="gypbntjj0lspbqKL5SlP-65" value="? infrastructure" style="swimlane;horizontal=0;dashed=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=#E6E6E6;gradientColor=none;strokeColor=#E6E6E6;strokeWidth=8;" vertex="1" parent="gypbntjj0lspbqKL5SlP-1">
           <mxGeometry x="280" y="590" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gypbntjj0lspbqKL5SlP-66" value="Backup and disaster recovery" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;strokeColor=#1A1A1A;strokeWidth=8;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="gypbntjj0lspbqKL5SlP-1">
+          <mxGeometry x="35" y="40" width="295" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
