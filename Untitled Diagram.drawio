@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T10:44:35.879Z" agent="5.0 (Windows)" etag="wRnfPxtiI10yQwa6ZlFY" version="16.5.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-01T10:56:04.949Z" agent="5.0 (Windows)" etag="m_Qznurpv1CIYuVKsPZz" version="16.5.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
         <mxCell id="gypbntjj0lspbqKL5SlP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=default;strokeWidth=3;" edge="1" parent="gypbntjj0lspbqKL5SlP-1" source="gypbntjj0lspbqKL5SlP-13" target="gypbntjj0lspbqKL5SlP-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gypbntjj0lspbqKL5SlP-13" value="Backup Server / VERTEX - set up and managed via IT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="gypbntjj0lspbqKL5SlP-1">
+        <mxCell id="gypbntjj0lspbqKL5SlP-13" value="Backup Server on VERTEX" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="gypbntjj0lspbqKL5SlP-1">
           <mxGeometry x="35" y="387" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gypbntjj0lspbqKL5SlP-56" value="IT Firewall" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="gypbntjj0lspbqKL5SlP-1">
