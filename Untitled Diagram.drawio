@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:36:29.394Z" agent="5.0 (Windows)" etag="r-RpGLR6AKlQoVVzVE9Y" version="17.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-15T13:21:18.737Z" agent="5.0 (Windows)" etag="LfZGv4iAOeRLbxX4BbH5" version="17.1.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,7 +310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JIX23-UK7E8j7HREWu20" name="Page-5">
-    <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gypbntjj0lspbqKL5SlP-0" />
         <mxCell id="gypbntjj0lspbqKL5SlP-1" parent="gypbntjj0lspbqKL5SlP-0" />
@@ -478,8 +478,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-5" id="56YN36Crq5MEmz3-KEUO">
-    <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="New Proposal" id="56YN36Crq5MEmz3-KEUO">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fsagt6d8C4QhQ1WQ-hUY-0" />
         <mxCell id="fsagt6d8C4QhQ1WQ-hUY-1" parent="fsagt6d8C4QhQ1WQ-hUY-0" />
@@ -601,11 +601,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NDcHerwz7rAzOhQ2X4oa-0" value="&lt;a href=&quot;https://www.veeam.com/licensing-pricing.html?ad=menu-buy&quot;&gt;https://www.veeam.com/licensing-pricing.html?ad=menu-buy&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="590" y="430" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NDcHerwz7rAzOhQ2X4oa-2" value="&lt;a href=&quot;https://www.veeam.com/veeam_one_datasheet_ds.pdf&quot;&gt;https://www.veeam.com/veeam_one_datasheet_ds.pdf&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="590" y="497" width="220" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="M3PTSNWxB7aMRY2qMHZm" name="Page-6">
-    <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PA_IQCq6yr2OzmiDx_Cc-0" />
         <mxCell id="PA_IQCq6yr2OzmiDx_Cc-1" parent="PA_IQCq6yr2OzmiDx_Cc-0" />
