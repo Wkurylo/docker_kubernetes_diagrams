@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:32:58.200Z" agent="5.0 (Windows)" etag="Ms3HGE5VEZTYz6B9zw4i" version="17.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:36:29.394Z" agent="5.0 (Windows)" etag="r-RpGLR6AKlQoVVzVE9Y" version="17.1.2" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -543,73 +543,63 @@
         <mxCell id="fsagt6d8C4QhQ1WQ-hUY-31" value="IT infrastructure" style="swimlane;horizontal=0;dashed=1;labelBackgroundColor=none;fontSize=16;fontColor=default;fillColor=#FF9999;gradientColor=none;strokeColor=#FF9999;strokeWidth=8;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
           <mxGeometry x="8" y="350" width="460" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="-Rg8KgrY3qHMkRoJaGGv-0" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-31">
-          <mxGeometry x="35" y="20" width="202" height="110" as="geometry" />
+        <mxCell id="TUwkMOvhJFvCpHDJzamd-0" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DEME HQ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-31">
+          <mxGeometry x="52" y="-10" width="212" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fsagt6d8C4QhQ1WQ-hUY-39" value="Backup and disaster recovery" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;strokeColor=#1A1A1A;strokeWidth=8;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
-          <mxGeometry x="35" y="40" width="295" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Copy of Copy of Page-5" id="Qn5zvICJILqAIbrv1ewh">
-    <mxGraphModel dx="1422" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-0" />
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-1" parent="2YP2lDOHHU1rQ3P2fIoy-0" />
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-19" value="Backup and disaster recovery" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=default;strokeColor=#1A1A1A;strokeWidth=8;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="35" y="40" width="295" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-9" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="110" y="496" width="58" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" edge="1" parent="2YP2lDOHHU1rQ3P2fIoy-1" target="2YP2lDOHHU1rQ3P2fIoy-18">
+        <mxCell id="Xh9x_z4kC3VsWdGmxZm2-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fsagt6d8C4QhQ1WQ-hUY-31" target="yAcFTR0jIWyeOZ3w4A77-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="240" as="sourcePoint" />
-            <mxPoint x="440" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="139" y="350" />
-            </Array>
+            <mxPoint x="642" as="sourcePoint" />
+            <mxPoint x="264" y="43" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-18" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOAT 1&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="38" y="350" width="212" height="140" as="geometry" />
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-0" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOAT 2&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="20" y="20" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-20" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOAT 2&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="270" y="350" width="230" height="140" as="geometry" />
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-1" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="392" y="477" width="58" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-21" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="342" y="497" width="58" height="70" as="geometry" />
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-2" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOAT 3&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="270" y="20" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-22" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="1850" y="1180" width="58" height="70" as="geometry" />
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-3" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="100" y="160" width="58" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-23" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOAT 3&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="550" y="350" width="210" height="140" as="geometry" />
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-4" value="&lt;div&gt;Veam Management and proxy Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PRA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email Agent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Client&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;BOAT 4&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="500" y="20" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" edge="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-5" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="560" y="160" width="58" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yAcFTR0jIWyeOZ3w4A77-6" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="340" y="160" width="58" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qFf1dbv-AnJ6AecB89g_-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Cloud_Services_Classic.svg;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="666" y="290" width="72" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="qFf1dbv-AnJ6AecB89g_-1" value="&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt;Veeam ONE&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot; class=&quot;List_L1&quot;&gt; Web Client&lt;/span&gt;&lt;span class=&quot;List_L1&quot;&gt; &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fsagt6d8C4QhQ1WQ-hUY-1">
+          <mxGeometry x="650" y="342" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh9x_z4kC3VsWdGmxZm2-0" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fsagt6d8C4QhQ1WQ-hUY-1" source="qFf1dbv-AnJ6AecB89g_-1" target="TUwkMOvhJFvCpHDJzamd-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370.5" y="240" as="sourcePoint" />
-            <mxPoint x="370.5" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370.5" y="350" />
-            </Array>
+            <mxPoint x="521.54" y="320" as="sourcePoint" />
+            <mxPoint x="520" y="411" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" edge="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
+        <mxCell id="Xh9x_z4kC3VsWdGmxZm2-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fsagt6d8C4QhQ1WQ-hUY-1" target="yAcFTR0jIWyeOZ3w4A77-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="240" as="sourcePoint" />
-            <mxPoint x="638.5" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="638.5" y="350" />
-            </Array>
+            <mxPoint x="650" y="350" as="sourcePoint" />
+            <mxPoint x="272" y="393" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Cloud_Services_Classic.svg;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="335" y="150" width="72" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="2YP2lDOHHU1rQ3P2fIoy-28" value="Veam One" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2YP2lDOHHU1rQ3P2fIoy-1">
-          <mxGeometry x="326" y="200" width="90" height="40" as="geometry" />
+        <mxCell id="Xh9x_z4kC3VsWdGmxZm2-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fsagt6d8C4QhQ1WQ-hUY-1" target="yAcFTR0jIWyeOZ3w4A77-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="sourcePoint" />
+            <mxPoint x="272" y="393" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
