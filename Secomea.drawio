@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T10:02:51.828Z" agent="5.0 (Windows)" etag="8USKNJXZFFDieGBB9SGP" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T12:44:40.380Z" agent="5.0 (Windows)" etag="vtMajeSo8qtghAF3D4pl" version="17.1.2" type="github">
   <diagram id="loxVYNxc_1fKQHMXAI9i" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="220" y="600" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WlMpEsrT4QpQGn3PJaZL-3" value="" style="shape=mxgraph.cisco.modems_and_phones.rf_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="428.46" y="188.25" width="161.54" height="81.75" as="geometry" />
+          <mxGeometry x="438.46" y="202" width="161.54" height="81.75" as="geometry" />
         </mxCell>
         <mxCell id="WlMpEsrT4QpQGn3PJaZL-4" value="" style="shape=mxgraph.cisco.modems_and_phones.modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="179" y="202" width="77" height="27" as="geometry" />
@@ -61,10 +61,10 @@
         <mxCell id="WlMpEsrT4QpQGn3PJaZL-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;fontColor=#FF3333;strokeColor=#FF3333;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="220" as="sourcePoint" />
-            <mxPoint x="450" y="240" as="targetPoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="260" />
-              <mxPoint x="450" y="260" />
+              <mxPoint x="230" y="300" />
+              <mxPoint x="520" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -148,6 +148,12 @@
         </mxCell>
         <mxCell id="WlMpEsrT4QpQGn3PJaZL-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fontColor=#FF0000;fillColor=none;strokeColor=#FF0000;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="190" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlMpEsrT4QpQGn3PJaZL-70" value="In: Port 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="427" y="200" width="110" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="WlMpEsrT4QpQGn3PJaZL-71" value="Out: Port 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#FFFFFF;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="550" y="258" width="110" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
